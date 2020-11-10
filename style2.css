@@ -1,0 +1,47 @@
+
+/** {
+	border-bottom-style: dotted;
+}*/
+
+
+body {
+	background-image: url(sand.jpg);
+	background-size: cover;
+}
+
+li {
+	list-style: none;
+	display: inline-block;
+}
+
+h1, h2 {
+	color: blue;
+	background-color: yellow;
+}
+
+p:hover {
+	border-style: groove;
+	border-color: orange;
+}
+
+
+.paraText:last-child {
+	font-weight: 100;
+	font: 200;
+	font-size: larger;
+}
+
+.paraBody:first-child {
+	border-style: solid;
+	border-color: red;
+}
+
+#div1 {
+	text-align: left;
+}
+
+#div2 {
+	text-align: center;
+}
+
+
