@@ -11,8 +11,8 @@ Cascading Style Sheets at the most basic level it indicates that the order of CS
 #id
 *
 element
-element, element
-element element
+element, element   ---- (h2, p) group elements
+element element    ---- (div p) Selects all p elements inside div element
 element > element
 element + element
 :hover

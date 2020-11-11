@@ -1,0 +1,15 @@
+photocontainer {
+	display: flex;
+
+}
+
+img {
+	width: 400px;
+	height: 350px;
+}
+
+h1 {
+	font-family: serif;
+	color: blue;
+	font-size: 3em;
+}
